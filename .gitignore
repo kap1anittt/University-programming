@@ -1,0 +1,5 @@
+*build
+.vscode
+opencv_1/task1/vcpkg/
+opencv_1/task2/vcpkg/
+*vcpkg
